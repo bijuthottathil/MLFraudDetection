@@ -1,4 +1,6 @@
-# MLFraudDetection modir
+# Creation of Credit Card Fraud Detection Predictive Models using sklearn,Polar,Flask,MLFLow
+![image](https://github.com/user-attachments/assets/cf3aba0b-a2e6-495f-b201-165846074871)  
+
 
 Follow below steps in VSCode terminal . I have used virtual envionment in MAC to train the model 
 
